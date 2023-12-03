@@ -21,7 +21,7 @@ export const data = [
         option2: "Fake",
         option3: "Archived",
         option4: "Bin",
-        ans: 4,
+        ans: 1,
     },
     {
         question: "A computer cannot BOOT if it does not have the?",
